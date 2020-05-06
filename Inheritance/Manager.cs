@@ -12,3 +12,4 @@ namespace InheritanceTask
 
     //TODO: Override public virtual method 'SetBonus', which increases bonus depending on clients amount
 }
+

@@ -13,3 +13,4 @@ namespace InheritanceTask
     //TODO: Define public virtual method 'SetBonus', that set value in 'bonus'
     //TODO: Define public method 'ToPay', that returns sum of salary and bonus 
 }
+

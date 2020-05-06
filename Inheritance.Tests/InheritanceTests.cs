@@ -1,10 +1,10 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace Inheritance.Test
+namespace Inheritance.Tests
 {
     [TestFixture]
-    public class InheritanceTest
+    public class InheritanceTests
     {
         [Test]
         public void Test()
@@ -13,3 +13,4 @@ namespace Inheritance.Test
         }
     }
 }
+

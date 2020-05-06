@@ -13,8 +13,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Inheritance\Inheritance.csproj" />
-  </ItemGroup>
-
 </Project>
