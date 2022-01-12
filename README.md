@@ -18,7 +18,7 @@ To create classes **Employee**, **SalesPerson**, **Manager** and **Company** wit
 2. To create class **SalesPerson** as class **Employee** inheritor and declare within it:  
 
 - Closed integer field  **percent** (percent of sales targets plan performance/execution)
-- Constructor with parameters: **name** – employee last name, **salary**, perc****ent – percent of plan performance, first two of which are passed to basic class constructor
+- Constructor with parameters: **name** – employee last name, **salary**, **percent** – percent of plan performance, first two of which are passed to basic class constructor
 - Redefine virtual method of parent class **SetBonus** in the following way: if the sales person completed the plan more than 100%, so his bonus is doubled (is multiplied by 2), and if more than 200% - bonus is tripled (is multiplied by 3)  
 
 3. To create class **Manager** as **Employee** class inheritor, and declare with it: 
@@ -35,7 +35,7 @@ To create classes **Employee**, **SalesPerson**, **Manager** and **Company** wit
 
 - Closed field **employees** (staff) – an array of Employee type. 
 - Constructor that receives employee array of **Employee** type with arbitrary length 
-- Method **GiveEverbodyBonus** with money parameter comp****anyBonus that sets the amount of basic bonus for each employee. 
+- Method **GiveEverbodyBonus** with money parameter **companyBonus** that sets the amount of basic bonus for each employee. 
 - Method **TotalToPay** that returns total amount of salary of all employees including awarded bonus 
 - Method **NameMaxSalary** that returns employee last name, who received maximum salary including bonus.  
 
