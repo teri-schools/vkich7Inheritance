@@ -11,7 +11,7 @@ namespace InheritanceTask
 
     //TODO: Define constructor that gets array of employees, and assign them to its field
 
-    //TODO: Define public method 'GiveEverbodyBonus' with parameter 'companyBonus', that set basic bonus to every employee in the company
+    //TODO: Define public method 'GiveEverybodyBonus' with parameter 'companyBonus', that set basic bonus to every employee in the company
     //TODO: Define public method 'TotalToPay', that returns the total salary + bonus of all employees of the company 
     //TODO: Define public method 'NameMaxSalary', that returns emloyee’s name who has maximum salary + bonus in the company 
 }
