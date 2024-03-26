@@ -1,4 +1,5 @@
 # Inheritance
+[![Test](https://github.com/teri-schools/vkich7Inheritance/actions/workflows/dotnet-desktop.yml/badge.svg?branch=main)](https://github.com/teri-schools/vkich7Inheritance/actions/workflows/dotnet-desktop.yml)
 
 
 ## Task 1 
